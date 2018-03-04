@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/hjy/Myproject/tensorflow/projector/projector/a_model.ckpt-1001"
+all_model_checkpoint_paths: "/home/hjy/Myproject/tensorflow/projector/projector/a_model.ckpt-1001"
