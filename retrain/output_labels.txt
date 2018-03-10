@@ -1,0 +1,5 @@
+house
+pet
+guitar
+car
+flower
